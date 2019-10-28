@@ -13,7 +13,7 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      name: Kealy
+      name: KealyS
     steps:
     - name: Run a one-line script
       run: echo Hello, $name!
